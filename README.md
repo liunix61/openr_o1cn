@@ -58,7 +58,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/openreasoner/openr)][stars-url]
 [![HuggingFace Dataset](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/openreasoner)
 [![X](https://img.shields.io/badge/openreasoner-%23000000.svg?logo=X&logoColor=white)](#https://x.com/openreasoner)
-[![WeChat](https://img.shields.io/badge/WeChat_Group-07C160?logo=wechat&logoColor=white)](#commnity)
+[![WeChat](https://img.shields.io/badge/WeChat_Group-07C160?logo=wechat&logoColor=white)](#community)
 
 
 <!-- TABLE OF CONTENTS -->
