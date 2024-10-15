@@ -245,9 +245,7 @@ torchrun --nproc_per_node=2 finetune_qwen.py --model_path $YOUR_MODEL_PATH \
 
 The OpenR community is maintained by:
 
-- Jun Wang (jun.wang@cs.ucl.ac.uk) University College London [Team Leader]
-- Meng Fang (Meng.Fang@liverpool.ac.uk) University of Liverpool [Team Leader]
-- Linyi Yang (yanglinyiucd@gmail.com) Westlake University [Technical Lead]
+- **Openreasoner Team** (openreasoner@gmail.com)
 
 ## License
 OpenR is released under the MIT License.
